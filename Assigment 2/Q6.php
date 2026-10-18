@@ -433,10 +433,10 @@ $transcript = array(
         ),
 
         "subject2" => array(
-            "CW1" => 9,
-            "MidTerm" => 26,
+            "CW1" => 8,
+            "MidTerm" => 36,
             "CW2" => 10,
-            "Final" => 40,
+            "Final" => 50,
             "Total" => 85,
             "Status" => "Pass"
         ),
@@ -464,7 +464,7 @@ $transcript = array(
         ),
 
         "subject2" => array(
-            "CW1" => 9,
+            "CW1" => 8,
             "MidTerm" => 26,
             "CW2" => 10,
             "Final" => 40,
@@ -473,7 +473,7 @@ $transcript = array(
         ),
 
         "subject3" => array(
-            "CW1" => 9,
+            "CW1" => 7,
             "MidTerm" => 26,
             "CW2" => 10,
             "Final" => 40,
